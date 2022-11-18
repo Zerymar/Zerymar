@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Zerymar
-- 👀 I’m interested in mainly game development, whether directly on games or adjacent.
 - 🌱 I’m currently learning Unreal Engine 4/5.
 
 <!---
