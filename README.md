@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Zerymar
+- Personal repository of ongoing projects
+
 
 <!---
 Zerymar/Zerymar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
