@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Zerymar
-- 🌱 I’m currently learning Unreal Engine 4/5.
 
 <!---
 Zerymar/Zerymar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
